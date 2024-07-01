@@ -1,7 +1,7 @@
 * {
-    background-color: #0e0c13;
+    background-color: #0c130e;
     color: rgb(221, 221, 221);
-    font-family: arial;
+    font-family: helvetica, roboto, sans-serif;
     margin: 10px;
 }
 
@@ -12,11 +12,13 @@ h1, h2, p, li {
 a {
     text-decoration: none;
     transition: color 1s;
-    color: rgb(103, 110, 175);
+    transition: font-size 1s;
+    color: rgb(183, 192, 133);
 }
 
 a:hover {
     color: rgb(255, 255, 255);
+    font-size: 1.25rem;
 }
 
 img {
