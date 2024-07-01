@@ -1,0 +1,24 @@
+* {
+    background-color: #0e0c13;
+    color: rgb(221, 221, 221);
+    font-family: arial;
+    margin: 10px;
+}
+
+h1, h2, p, li {
+    margin: 25px;
+}
+
+a {
+    text-decoration: none;
+    transition: color 1s;
+    color: rgb(103, 110, 175);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    border-radius: 10px;
+}
