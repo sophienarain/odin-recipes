@@ -1,8 +1,12 @@
 * {
-    background-color: #0c130e;
-    color: rgb(221, 221, 221);
+    background-color: #b9f8c9;
+    color: rgb(0, 0, 0);
     font-family: helvetica, roboto, sans-serif;
     margin: 10px;
+}
+
+h1 {
+    text-align: center;
 }
 
 h1, h2, p, li {
@@ -13,14 +17,17 @@ a {
     text-decoration: none;
     transition: color 1s;
     transition: font-size 1s;
-    color: rgb(183, 192, 133);
+    color: rgb(58, 32, 8);
 }
 
 a:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(138, 50, 0);
     font-size: 1.25rem;
 }
 
 img {
     border-radius: 10px;
+    margin: 32px auto;
+    display: block;
+    
 }
