@@ -10,7 +10,7 @@ h1 {
 }
 
 h1, h2, p, li {
-    margin: 25px;
+    margin: 32px 0;
 }
 
 a {
@@ -30,4 +30,9 @@ img {
     margin: 32px auto;
     display: block;
     
+}
+
+footer {
+    margin-top: 32px;
+    font-size: 0.75rem;
 }
